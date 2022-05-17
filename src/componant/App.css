@@ -1,0 +1,13 @@
+.mainContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.cardWrapper{
+    border: 1px solid grey;
+    width: 500px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
